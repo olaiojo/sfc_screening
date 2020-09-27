@@ -73,4 +73,5 @@ fabric.properties
 
 # individual
 myentry.py
+toraEntry.py
 __pycache__/

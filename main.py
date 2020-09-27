@@ -9,6 +9,7 @@ import myentry
 
 YOUR_ENTRY_LIST = myentry.YOUR_ENTRY_LIST
 
+
 # 定員割れ科目の除外
 def removeShortage(entries_list):
     clean_entries_list = []
